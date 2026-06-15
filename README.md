@@ -1,5 +1,4 @@
-# UNIVERSITY-MANAGEMENT-SYSTEM
-A console-based C++ app to manage university courses, students &amp; enrollments. Supports add, update, delete, search &amp; reports. Data saved in .txt files using file I/O, dynamic arrays, structs &amp; custom string functions. No STL used. — 1st Sem Project
+🎓 A C++ console-based University Management System with full CRUD for Courses, Students & Enrollments — file storage, dynamic memory, auto-ID generation, search, reports & cascading deletes. Lightweight, menu-driven & beginner-friendly! 🚀
 # 🎓 University Management System
 
 ### A File-Based C++ Console Application for Managing Courses, Students & Enrollments
