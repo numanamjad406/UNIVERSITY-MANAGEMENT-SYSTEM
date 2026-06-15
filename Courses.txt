@@ -1,0 +1,5 @@
+101|Mathematics|Dr. Ahmed|3|40|0
+102|Physics|Dr. Sara|3|35|0
+103|Programming Fundamentals|Dr. Ali|4|50|0
+104|English Composition|Ms. Nadia|2|45|0
+105|Calculus|Dr. Usman|3|30|0
